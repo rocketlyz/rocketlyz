@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" class="avatar" src="https://avatars.githubusercontent.com/u/7335210?v=4" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Welcome to rocketlyz's homepage</h2>
 </p>
 
@@ -9,22 +9,9 @@
   </a>
 </p>
 
-<p>
-<a href="https://github.com/ml-for-good/mlui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ml-for-good&repo=mlui" alt="mlui">
-</a>
-<a href="https://github.com/rocketlyz/jsmoteur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rocketlyz&repo=jsmoteur" alt="jsmouter">
-</a>
+<p align="center">
+ <a href="https://github.com/rocketlyz">
+  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocketlyz&langs_count=8&theme=merko">
+ </a>
+ <img alt="rocketlyz's GitHub stats" align="right" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966">
 </p>
-
-<p>
-<a href="https://github.com/rocketlyz/im-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rocketlyz&repo=im-react" alt="im-react">
-</a>
-<a href="https://github.com/rocketlyz/im-promise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rocketlyz&repo=im-promise" alt="im-promise">
-</a>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocketlyz&langs_count=8)](https://github.com/rocketlyz)
