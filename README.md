@@ -1,9 +1,4 @@
 <p align="center">
- <img width="100px" class="avatar" src="https://avatars.githubusercontent.com/u/7335210?v=4" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Welcome to rocketlyz's homepage</h2>
-</p>
-
-<p align="center">
   <a href="https://github.com/rocketlyz">
     <img alt="rocketlyz's GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api?username=rocketlyz&theme=merko">
   </a>
